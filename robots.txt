@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://kabk.github.io/sitemap.xml
